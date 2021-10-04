@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = caio.santos@msn.com
+	name = Caio Santos
